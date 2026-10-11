@@ -1,0 +1,6 @@
+,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+Árbol base,0.746,0.522,0.514,0.518,0.672,0.398
+Árbol ajustado,0.726,0.49,0.822,0.614,0.834,0.619
+Regresión logística,0.748,0.516,0.803,0.628,0.849,0.657
+Random Forest,0.77,0.545,0.801,0.649,0.847,0.652
+Gradient Boosting,0.758,0.529,0.769,0.627,0.837,0.637
