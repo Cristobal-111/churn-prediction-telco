@@ -131,6 +131,8 @@ También puedes abrirlo directamente en Google Colab: [![Open In Colab](https://
 
 [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) · Datos de muestra publicados por IBM. 7.043 clientes, 21 variables.
 
+- 🏨 [Predicción de cancelaciones hoteleras con Random Forest](https://github.com/Cristobal-111/hotel-cancellation-random-forest)
+  
 ## 👤 Autor
 
 **Cristobal Rojas** · Analista de Datos
