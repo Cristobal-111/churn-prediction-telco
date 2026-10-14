@@ -131,9 +131,14 @@ También puedes abrirlo directamente en Google Colab: [![Open In Colab](https://
 
 [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) · Datos de muestra publicados por IBM. 7.043 clientes, 21 variables.
 
-- 🏨 [Predicción de cancelaciones hoteleras con Random Forest](https://github.com/Cristobal-111/hotel-cancellation-random-forest)
-- 📉 [Predicción de fuga de clientes en telecomunicaciones (árboles de decisión)](https://github.com/Cristobal-111/churn-prediction-telco)
-- 💳 [Riesgo de crédito con XGBoost: explicable, coherente y justo](https://github.com/Cristobal-111/credit-risk-xgboost)
+## 🔗 Serie de proyectos
+
+1. 📉 **Fuga de clientes en telecomunicaciones · Árbol de decisión** (este repositorio)
+2. 🏨 [Cancelaciones hoteleras · Random Forest](https://github.com/Cristobal-111/hotel-cancellation-random-forest)
+3. 💳 [Riesgo de crédito · XGBoost](https://github.com/Cristobal-111/credit-risk-xgboost)
+4. 🏥 [Inasistencia a citas médicas · Proyecto integral PACE](https://github.com/Cristobal-111/medical-no-show-pace)
+5. 👥 [People Analytics: rotación laboral · Regresión logística interpretable](https://github.com/Cristobal-111/hr-attrition-people-analytics)
+   
 ## 👤 Autor
 
 **Cristobal Rojas** · Analista de Datos
